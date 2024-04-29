@@ -1,0 +1,1 @@
+/* Página para la gestión de usuarios. */

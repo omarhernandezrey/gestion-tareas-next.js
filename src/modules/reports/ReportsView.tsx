@@ -1,0 +1,1 @@
+/* Componente para visualizar los informes y estadísticas. */

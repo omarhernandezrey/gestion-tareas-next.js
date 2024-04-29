@@ -1,0 +1,1 @@
+/* Componente para mostrar un resumen de un proyecto */
